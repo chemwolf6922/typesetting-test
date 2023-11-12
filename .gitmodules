@@ -1,0 +1,3 @@
+[submodule "libschrift"]
+	path = libschrift
+	url = https://github.com/tomolt/libschrift.git
